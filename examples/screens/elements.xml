@@ -24,12 +24,12 @@
 			style_pad_row="#unit_xl"
 		>
 			<alarm />
-			<thermostat />
+			<!--thermostat />
 			<move_goal />
 			<weather />
 			<light_temperature />
 			<music_player />
-			<speaker_volume />
+			<speaker_volume /-->
 		</div>
 	</view>
 </screen>

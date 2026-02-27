@@ -5,7 +5,7 @@
 	<styles>
 		<style
 			name="style_base"
-			text_font="geist_light_60"
+			text_font="geist_light_50"
 			text_line_space="-16"
 			text_color="#surface_primary_light"
 			text_opa="#opa_muted"
